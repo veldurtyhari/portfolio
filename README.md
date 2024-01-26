@@ -8,8 +8,8 @@
 
 ## Work Experience
 **Technical Lead @ Trelleborg Group (_August 2023 - Present_)**
-    • Led the development of Android Applications and AR/VR applications like product visualization and interaction.
-    • Developed Android applications using Kotlin, leveraging its concise syntax, null-safety features, and interoperability with Java to enhance code readability and maintainability.
+- Led the development of Android Applications and AR/VR applications like product visualization and interaction.
+- Developed Android applications using Kotlin, leveraging its concise syntax, null-safety features, and interoperability with Java to enhance code readability and maintainability.
     • Used Jetpack Compose as the exclusive UI framework.
     • Migrated existing screens of the app from XML to declarative Compose UI component by component.
     • Designed and developed an immersive and connected environment using the interactive user interface, 3D assets, and user interactions using Unity3D. 
